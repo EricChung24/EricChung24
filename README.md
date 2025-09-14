@@ -7,8 +7,8 @@
 
 ---
 
-## 「程式碼就像幽默，一旦你需要解釋它，就不再好笑。」
-— Cory House
+## 「程式碼就像幽默，一旦你需要解釋它，就不再好笑。」— Cory House
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/EricChung1024/growth/blob/main/.github/github-snake.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EricChung1024/growth/blob/main/.github/github-snake.svg" />
