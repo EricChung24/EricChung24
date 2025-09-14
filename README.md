@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricChung1024)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricChung1024) 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=EricChung1024)  
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=堅強的意志會帶你突破重圍!!!!!)  
+https://readme-typing-svg.demolab.com/demo/?weight=700&size=25&color=ADF700&background=FFE3A200&center=true&vCenter=true&width=500&lines=%E5%A0%85%E5%BC%B7%E7%9A%84%E6%84%8F%E5%BF%97%E6%9C%83%E5%B8%B6%E4%BD%A0%E7%AA%81%E7%A0%B4%E9%87%8D%E5%9C%8D!!;%E4%B8%80%E9%96%8B%E5%A7%8B%E4%B8%8D%E7%94%A8%E5%BE%88%E5%8E%B2%E5%AE%B3%EF%BC%8C%E9%96%8B%E5%A7%8B%E4%BA%86%E6%89%8D%E8%83%BD%E5%BE%88%E5%8E%B2%E5%AE%B3!
 
 ---
 
