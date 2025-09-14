@@ -1,6 +1,7 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EricChung1024)   
 ![trophy](https://github-profile-trophy.vercel.app/?username=EricChung1024&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricChung1024)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricChung1024)![GitHub Streak](https://streak-stats.demolab.com/?user=EricChung1024)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricChung1024) 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=EricChung1024)  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=ADF700&background=FFE3A200&center=true&vCenter=true&width=500&lines=%E5%A0%85%E5%BC%B7%E7%9A%84%E6%84%8F%E5%BF%97%E6%9C%83%E5%B8%B6%E4%BD%A0%E7%AA%81%E7%A0%B4%E9%87%8D%E5%9C%8D!!;%E4%B8%80%E9%96%8B%E5%A7%8B%E4%B8%8D%E7%94%A8%E5%BE%88%E5%8E%B2%E5%AE%B3%EF%BC%8C%E9%96%8B%E5%A7%8B%E4%BA%86%E6%89%8D%E8%83%BD%E5%BE%88%E5%8E%B2%E5%AE%B3!)](https://git.io/typing-svg)
@@ -21,8 +22,7 @@
 
 ---
 
-## 🌳 技能樹:
-### Frontend  
+## 🌳 技能樹:  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
@@ -53,10 +53,5 @@
 </td></tr></table>  
 
 
-## 瀏覽次數
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=EricChung1024
-&left_color=green&right_color=red)
-![GitHub Streak](https://streak-stats.demolab.com/?user=EricChung1024)
 
 
