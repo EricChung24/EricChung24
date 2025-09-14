@@ -1,5 +1,5 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EricChung1024)   
-![trophy](https://github-profile-trophy.vercel.app/?username=EricChung1024)  
+![trophy](https://github-profile-trophy.vercel.app/?username=EricChung1024&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricChung1024)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricChung1024) 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=EricChung1024)  
