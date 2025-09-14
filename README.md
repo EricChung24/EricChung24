@@ -3,7 +3,7 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EricChung1024)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricChung1024)  
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=EricChung1024)  
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=意志會帶你突破重圍!!!!!)  
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=堅強的意志會帶你突破重圍!!!!!)  
 
 ---
 
