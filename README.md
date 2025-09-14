@@ -10,10 +10,11 @@
 ## 「程式碼就像幽默，一旦你需要解釋它，就不再好笑。」— Cory House
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/EricChung1024/growth/blob/main/.github/github-snake.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EricChung1024/growth/blob/main/.github/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/EricChung1024/growth/blob/main/.github/github-snake.svg" />
-</picture>  
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EricChung1024/EricChung1024/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EricChung1024/EricChung1024/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EricChung1024/EricChung1024/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 *(JS 深耕中...)*
 
