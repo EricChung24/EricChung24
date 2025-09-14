@@ -9,6 +9,9 @@
 
 ## 「程式碼就像幽默，一旦你需要解釋它，就不再好笑。」— Cory House
 
+---
+
+## 提交貪食蛇
 <picture>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EricChung1024/EricChung1024/output/github-contribution-grid-snake.svg">
 </picture>
