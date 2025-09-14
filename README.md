@@ -55,4 +55,8 @@
 
 ## 瀏覽次數
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=EricChung1024&left_color=red&right_color=blue)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=EricChung1024
+&left_color=green&right_color=red)
+![GitHub Streak](https://streak-stats.demolab.com/?user=EricChung1024)
+
+
