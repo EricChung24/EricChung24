@@ -30,6 +30,6 @@
 <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />  
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />  
 
+## 瀏覽次數
 
-===
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=EricChung1024&left_color=red&right_color=blue)
