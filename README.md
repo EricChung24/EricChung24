@@ -17,7 +17,7 @@
 <!-- 語言 + 連續打卡 -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricChung1024" alt="Top Langs" height="200"/>
-  <img src="https://streak-stats.demolab.com/?user=EricChung1024" alt="GitHub Streak" height="200"/>
+  
 </p>
 
 <!-- GitHub Stats -->
