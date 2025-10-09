@@ -7,23 +7,23 @@
 
 <!-- 活動圖 + 獎盃 -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EricChung1024" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EricChung24" alt="activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EricChung1024&theme=radical" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EricChung24&theme=radical" alt="trophy" />
 </p>
 
 <!-- 語言 + 連續打卡 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricChung1024" alt="Top Langs" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricChung24" alt="Top Langs" height="200"/>
   
 </p>
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricChung1024" alt="Anurag's GitHub stats" height="200"/>
-  <img src="https://github-immortality.vercel.app/api?username=EricChung1024" alt="IceEnd's GitHub stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EricChung24" alt="Anurag's GitHub stats" height="200"/>
+  <img src="https://github-immortality.vercel.app/api?username=EricChung24" alt="IceEnd's GitHub stats" height="200"/>
 </p>
 
 ---
@@ -34,7 +34,7 @@
 
 ## 提交貪食蛇
 <picture>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EricChung1024/EricChung1024/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EricChung1024/EricChung24/output/github-contribution-grid-snake.svg">
 </picture>
 
 
