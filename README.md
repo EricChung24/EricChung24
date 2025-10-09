@@ -34,7 +34,7 @@
 
 ## 提交貪食蛇
 <picture>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EricChung1024/EricChung24/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EricChung24/EricChung24/output/github-contribution-grid-snake.svg">
 </picture>
 
 
