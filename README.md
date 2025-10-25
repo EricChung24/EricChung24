@@ -10,9 +10,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EricChung24" alt="activity graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EricChung24&theme=radical" alt="trophy" />
-</p>
+
 
 <!-- 語言 + 連續打卡 -->
 <p align="center">
