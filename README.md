@@ -18,11 +18,7 @@
   
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricChung24" alt="Anurag's GitHub stats" height="200"/>
-  <img src="https://github-immortality.vercel.app/api?username=EricChung24" alt="IceEnd's GitHub stats" height="200"/>
-</p>
+
 
 ---
 
