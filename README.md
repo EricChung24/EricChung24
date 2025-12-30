@@ -12,12 +12,6 @@
 
 
 
-<!-- 語言 + 連續打卡 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricChung24" alt="Top Langs" height="200"/>
-  
-</p>
-
 
 
 ---
