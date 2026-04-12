@@ -26,7 +26,7 @@
 </picture>
 
 
-*(React 與 AI 深耕中...)*
+*(React 與 AI 一起深耕中...)*
 
 ---
 
