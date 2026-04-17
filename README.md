@@ -60,6 +60,6 @@
 
 </td></tr></table>  
 
-
+<img alt="github contribution grid snake animation" src="https://github.com/EricChung24/Obsidian-vault/blob/main/status.png?raw=true">
 
 
