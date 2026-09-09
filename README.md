@@ -5,10 +5,7 @@
   </a>
 </p>
 
-<!-- 活動圖 + 獎盃 -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EricChung24" alt="activity graph" />
-</p>
+
 
 
 
